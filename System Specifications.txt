@@ -1,0 +1,47 @@
+System Specifications:
+
+Operating system for which app is developed: Android
+Android minimum SDK version: 23
+Constraints: Internet and Location need to enabled
+Driver Functions:
+	Get Real Time Traffic Updates ,Get Optimised Route ,Get Emergency 
+	Assistance ,Driving Assistance ,Report Traffic related violations ,Get 
+	training on safe driving
+Pedestrian Functions:
+	Pedestrian Awareness
+Authentication: Google authentication
+
+Software Used:
+Programming Languages:
+Dart 
+
+Frameworks/Libraries:
+Flutter UI framework
+
+Database:
+Firebase Realtime Database(firebase_database: ^10.4.11)
+
+Other Tools:
+  google_maps_flutter: ^2.6.0 (To display maps)
+  firebase_core: ^2.27.2
+  firebase_auth: ^4.18.0
+  cloud_firestore: ^4.15.10
+  google_sign_in: ^6.2.1
+  firebase_messaging: ^14.7.21 (To send notifications)
+  geolocator: ^11.0.0(To track user location)
+  flutter_ringtone_player: ^4.0.0+2 (To provide alerts)
+  flutter_local_notifications: ^17.0.0
+  app_settings: ^5.1.1
+  http: ^1.2.1
+  flutter_polyline_points: ^2.0.0
+  geocoding: ^3.0.0
+  contacts_service: ^0.6.3
+  permission_handler: ^11.3.1
+  flutter_html: ^3.0.0-beta.2
+
+  telephony: ^0.2.0 (To send SMS)
+  webview_flutter: ^4.7.0
+  provider: ^6.1.2
+  sensors: ^2.0.3
+  url_launcher: ^6.2.6
+  flutter_svg: ^2.0.10+1
