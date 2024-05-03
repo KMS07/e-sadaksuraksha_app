@@ -1,6 +1,6 @@
-# geolocation_app
+# e-sadaksuraksha_app
 
-A new Flutter project.
+A flutter project to provide safety for drievrs and pedestrians.
 
 ## Getting Started
 
