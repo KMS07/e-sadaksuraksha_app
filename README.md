@@ -1,6 +1,6 @@
 # e-sadaksuraksha_app
 
-A flutter project to provide safety for drievrs and pedestrians.
+A flutter project to provide safety for drivers and pedestrians.
 
 ## Getting Started
 
